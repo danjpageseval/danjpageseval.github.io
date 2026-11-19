@@ -1,5 +1,5 @@
 ---
-title: "Gleam Gathering 2026"
+title: "Gleam Gathering 2027"
 type: "conference"
 start: "2027-02-27T09:00"
 end: "2027-02-27T16:00"
