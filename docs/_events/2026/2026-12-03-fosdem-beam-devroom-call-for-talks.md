@@ -13,6 +13,8 @@ announcements:
     url: "https://beam-fosdem.dev/"
 issue: 3
 logo: "/assets/images/events/beam-fosdem-2026-12-03.png"
+related:
+ - 2027-01-30-fosdem-beam-devroom
 ---
 The Erlang, Elixir, Gleam and Friends Devroom will take place in person at FOSDEM on Saturday (afternoon), 30th January 2027.
 
