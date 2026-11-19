@@ -4,7 +4,7 @@
 # before `closes` when there is no `opens`) until `closes`.
 - type: conference
   label: Conferences
-  lead_days: 183
+  lead_days: 230
 - type: meetup
   label: Meetups
   lead_days: 61
