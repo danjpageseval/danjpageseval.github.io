@@ -1,3 +1,5 @@
+- name: Events
+  include: upcoming-events.html
 - name: Working Groups
   items:
     - title: CNA (CVE Numbering Authority)
@@ -57,8 +59,6 @@
     - title: Academic Papers
       link: /papers/
       wg: EDU
-- name: Events
-  include: upcoming-events.html
 - name: Slides
   items:
     - title: "ElixirConf EU 2026: EEF Rundown"
